@@ -1,6 +1,9 @@
 # Updated-Carbanak-Source-with-Plugins
 https://twitter.com/itsreallynick/status/1120410950430089224
 
+-edit-![](moar-cupboats-for-u.png)
+xoxo
+
 -Run in a VM, don't be derp-
 
 ![](updated-tweet.png)
